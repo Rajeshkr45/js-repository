@@ -1,2 +1,2 @@
 # js-repository
-Javascript learning and practice with example
+Learn Javascript Step by Step with practice questions
